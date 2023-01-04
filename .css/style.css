@@ -141,7 +141,10 @@ header {
 #modal {
   display: none;
 }
-
+.dva {
+  display:inline-flex;
+  margin-left: 30px;
+}
 .slider {
   background-image: url(../img/slider-fon.jpg);
   background-repeat: no-repeat;
